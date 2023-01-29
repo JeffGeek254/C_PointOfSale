@@ -1,1 +1,3 @@
-Point of Sale in C
+#**Point of Sale in C**
+##This is a software that:
+
